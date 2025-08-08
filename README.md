@@ -35,9 +35,5 @@ Wind Speed: 8.4 km/h
 Weather Code: 3
 Time: 2025-08-08T16:00
 
-shell
-Copy
-Edit
-
 ## 📖 License
 MIT License
